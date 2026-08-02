@@ -120,7 +120,7 @@ See [`ATTRIBUTION.md`](ATTRIBUTION.md) for complete reuse guidance. Team names, 
 
 ## Disclaimer
 
-These files are provided as-is for educational and design-reference purposes. Verify dimensions, materials, clearances, fasteners, and applicable competition rules before manufacturing or operating any mechanism. This project is not affiliated with or endorsed by FIRST, GrabCAD, Stratasys, or the manufacturers of depicted components.
+These files are provided as-is for educational and design-reference purposes. Verify dimensions, materials, clearances, fasteners, and applicable competition rules before manufacturing or operating any mechanism.
 
 ---
 
