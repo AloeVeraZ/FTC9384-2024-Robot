@@ -11,7 +11,7 @@
 
 Open mechanical design files, robot photography, engineering documentation, and season resources for FTC Team 9384's 2023–2024 competition robot.
 
-[Download CAD](#cad-downloads) · [View Documentation](#engineering-documentation) · [GrabCAD Model](https://grabcad.com/library/ftc-9384-2023-2024-robot-1) · [Reuse & Attribution](#license-and-attribution)
+[Robot Overview](#robot-and-game) · [Download CAD](#cad-downloads) · [Design History](docs/DESIGN_HISTORY.md) · [View Documentation](#engineering-documentation) · [GrabCAD Model](https://grabcad.com/library/ftc-9384-2023-2024-robot-1) · [Reuse & Attribution](#license-and-attribution)
 
 </div>
 
@@ -23,12 +23,33 @@ Open mechanical design files, robot photography, engineering documentation, and 
 
 The models were originally published on [GrabCAD by Angelo Demetroulakos](https://grabcad.com/library/ftc-9384-2023-2024-robot-1). They are mirrored here so that every file can be downloaded directly without relying on an external CAD-library account.
 
+The robot's original project page is available at [angelojamesny.com/tubba-2023-24](https://angelojamesny.com/tubba-2023-24). Its robot-specific technical narrative and media have been independently summarized and preserved in this repository so the engineering record remains useful if that site is retired.
+
+## Robot and game
+
+EggWUUUHH was built to compete in the 2023–2024 FTC game **CENTERSTAGE**. During a match, robots collected hexagonal pixels and scored them on an angled backdrop or in designated field areas. Endgame opportunities included suspending from the stage truss and launching a paper airplane into an off-field scoring zone. See the [official CENTERSTAGE game animation](https://www.youtube.com/watch?v=6e-5Uo1dRic&t=30s) for a visual explanation.
+
+The team developed the robot through four major competition iterations. The core architecture combined a custom four-plate aluminum chassis, mecanum drivetrain, string-driven linear slides, active multi-stage intake, two-pixel outtake, plane launcher, and—late in the season—a winch-powered climber.
+
+| System | Design summary |
+| --- | --- |
+| Chassis | Four parallel aluminum plates with mechanism-specific mounting and clearance features, supported by structural extrusions and a mecanum drivetrain. |
+| Linear slides | Stacked drawer slides separated by 3D-printed pulley blocks and driven vertically by a motorized string system. |
+| Intake | Three active stages moved pixels from the floor into the robot: compliant star wheels, counter-rollers, and flexible zip-tie sweepers. |
+| Outtake | The final pivoting box contacted the backdrop and lowered pixels into place; a pincher retained the first pixel while a second waited above it. |
+| Plane launcher | A spring supplied launch energy, with separate servos controlling release and aiming angle. |
+| Climber | A fast winch pulled side-mounted pivoting hooks; string lowered the hooks and rubber bands passively helped raise them. |
+
+Read the complete, rewritten season narrative in [`docs/DESIGN_HISTORY.md`](docs/DESIGN_HISTORY.md).
+
 ## Repository contents
 
 ```text
 .
 ├── CAD/                         # Downloadable STEP models
 ├── images/                      # Robot photos and renderings
+│   └── project-history/         # Archived iteration and subsystem media
+├── docs/DESIGN_HISTORY.md       # Rewritten season and mechanism history
 ├── Portfolio&Notebook/          # Engineering portfolio and notebook PDFs
 ├── ATTRIBUTION.md               # Required credit and reuse guidance
 ├── CHECKSUMS.sha256             # Integrity hashes for distributed assets
@@ -71,7 +92,13 @@ STEP files contain geometry rather than the original parametric design history. 
     <td width="50%"><img src="images/IMG_1351.jpg" alt="FTC 9384 EggWUUUHH robot photograph"></td>
     <td width="50%"><img src="images/IMG_1350.png" alt="Rear view of the FTC 9384 EggWUUUHH robot"></td>
   </tr>
+  <tr>
+    <td width="50%"><img src="images/project-history/img_0376-dJoJBnWvDZf40Dqq.jpg" alt="Early active intake iteration"></td>
+    <td width="50%"><img src="images/project-history/img_1331_-1-YX4Pz1PNkNi9RZ4X.jpg" alt="Final side-mounted climbing mechanism"></td>
+  </tr>
 </table>
+
+The repository contains [20 additional original-resolution development images](images/project-history), all indexed in the [complete design history](docs/DESIGN_HISTORY.md).
 
 ## Software
 
