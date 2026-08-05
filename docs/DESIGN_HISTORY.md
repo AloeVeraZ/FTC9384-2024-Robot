@@ -1,12 +1,12 @@
 # EggWUUUHH design history
 
-This document preserves and reorganizes the robot-specific engineering record originally published on [Angelo Demetroulakos' project page](https://angelojamesny.com/tubba-2023-24). It is an original summary rather than a copy of the website. Robot media from that page was archived here on August 1, 2026.
+This document preserves and reorganizes the robot specific engineering record originally published on [Angelo Demetroulakos' project page](https://angelojamesny.com/tubba-2023-24). It is an original summary rather than a copy of the website. Robot media from that page was archived here on August 1, 2026.
 
 ## Challenge and design goals
 
 FTC Team 9384 began work on September 9, 2023 for the CENTERSTAGE season. The game rewarded robots for collecting thin hexagonal pixels and placing them on an angled backdrop or in marked field zones. Endgame tasks added the option to hang from the stage truss and launch a paper airplane into an external scoring area.
 
-These tasks drove several top-level requirements:
+These tasks drove several top level requirements:
 
 - reach multiple backdrop heights without sacrificing a compact starting configuration;
 - collect and retain up to two pixels quickly;
@@ -21,7 +21,7 @@ The robot passed through four major competition iterations.
 
 ### Linear slides
 
-The backdrop's height and angle led the team to a vertically extending slide system. Standard drawer slides were stacked together with 3D-printed parts serving as both spacers and pulley supports. A motor changed the direction of tension in the slide string to extend or retract the assembly.
+The backdrop's height and angle led the team to a vertically extending slide system. Standard drawer slides were stacked together with 3D printed parts serving as both spacers and pulley supports. A motor changed the direction of tension in the slide string to extend or retract the assembly.
 
 ### Chassis
 
@@ -29,11 +29,11 @@ The mecanum drive used a custom chassis built from four parallel aluminum plates
 
 ### Intake
 
-The first active intake used three stages so two pixels could move through the robot quickly. Star wheels initially gripped the game piece, counter-rotating rollers pulled it farther inward, and flexible zip ties swept it into the outtake area.
+The first active intake used three stages so two pixels could move through the robot quickly. Star wheels initially gripped the game piece, counter rotating rollers pulled it farther inward, and flexible zip ties swept it into the outtake area.
 
 ### Outtake
 
-The initial outtake held the pixels in a box and used 3D-printed flexible belts to eject them. It was fast, but could not release a pixel at the angle needed to score reliably on the backdrop. That limitation drove the next redesign.
+The initial outtake held the pixels in a box and used 3D printed flexible belts to eject them. It was fast, but could not release a pixel at the angle needed to score reliably on the backdrop. That limitation drove the next redesign.
 
 ### Plane launcher
 
@@ -41,19 +41,19 @@ A spring provided the launch energy. One servo released the spring and another r
 
 ## Iteration 2 — Qualifier 2 through Qualifier 4
 
-The chassis, intake, slides, and plane-launcher concepts were retained. Most development focused on the outtake.
+The chassis, intake, slides, and plane launcher concepts were retained. Most development focused on the outtake.
 
-The replacement outtake pivoted downward until it contacted the backdrop, allowing each pixel to slide into place rather than being thrown toward the angled surface. A pinching mechanism retained the first loaded pixel while a second pixel waited above it, making controlled two-pixel cycles possible.
+The replacement outtake pivoted downward until it contacted the backdrop, allowing each pixel to slide into place rather than being thrown toward the angled surface. A pinching mechanism retained the first loaded pixel while a second pixel waited above it, making controlled two pixel cycles possible.
 
 ## Iteration 3 — Qualifier 4 through Super Qualifier
 
-The team preserved the proven core mechanisms and added a small servo-driven pincher to the intake. During autonomous operation, this arm could rotate downward and collect pre-stacked pixels. The plane launcher's working mechanism stayed the same while its supporting frame was refined.
+The team preserved the proven core mechanisms and added a small servo driven pincher to the intake. During autonomous operation, this arm could rotate downward and collect pre stacked pixels. The plane launcher's working mechanism stayed the same while its supporting frame was refined.
 
 ## Iteration 4 — Super Qualifier through State Championship
 
 The mature chassis, slides, intake, outtake, and launcher remained in service. The major addition was the climber.
 
-After testing multiple climbing concepts, the team selected a winch-driven design for its speed, stiffness, and holding torque. Hooks on both sides of the robot pivoted toward the rear. String attached near each hook's center pulled the mechanism downward, while rubber bands provided passive assistance to raise its resting height. The winch then supported the robot from the truss.
+After testing multiple climbing concepts, the team selected a winch driven design for its speed, stiffness, and holding torque. Hooks on both sides of the robot pivoted toward the rear. String attached near each hook's center pulled the mechanism downward, while rubber bands provided passive assistance to raise its resting height. The winch then supported the robot from the truss.
 
 ## Mechanism takeaways
 
@@ -66,14 +66,14 @@ After testing multiple climbing concepts, the team selected a winch-driven desig
 
 - [Official 2023–2024 FTC CENTERSTAGE game animation](https://www.youtube.com/watch?v=6e-5Uo1dRic&t=30s)
 
-The video is linked rather than mirrored because it is third-party material published by FIRST.
+The video is linked rather than mirrored because it is third party material published by FIRST.
 
 ## Archived project media
 
 The files below are local copies of the original project images. They are kept under their source filenames to preserve provenance.
 
 <details>
-<summary><strong>Open the complete 20-image development gallery</strong></summary>
+<summary><strong>Open the complete 20 image development gallery</strong></summary>
 
 <table>
   <tr>
