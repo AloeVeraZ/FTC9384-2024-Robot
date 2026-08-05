@@ -19,26 +19,26 @@ Open mechanical design files, robot photography, engineering documentation, and 
 
 ## About the robot
 
-**EggWUUUHH** is FTC Team 9384 Hydraulic Hydras' robot from the 2023–2024 season. This repository preserves the complete robot assembly alongside the chassis, intake, lift, outtake, climber, and camera-mount designs used during development.
+**EggWUUUHH** is FTC Team 9384 Hydraulic Hydras' robot from the 2023–2024 season. This repository preserves the complete robot assembly alongside the chassis, intake, lift, outtake, climber, and camera mount designs used during development.
 
-The models were originally published on [GrabCAD by Angelo Demetroulakos](https://grabcad.com/library/ftc-9384-2023-2024-robot-1). They are mirrored here so that every file can be downloaded directly without relying on an external CAD-library account.
+The models were originally published on [GrabCAD by Angelo Demetroulakos](https://grabcad.com/library/ftc-9384-2023-2024-robot-1). They are mirrored here so that every file can be downloaded directly without relying on an external CAD library account.
 
-The robot's original project page is available at [angelojamesny.com/tubba-2023-24](https://angelojamesny.com/tubba-2023-24). Its robot-specific technical narrative and media have been independently summarized and preserved in this repository so the engineering record remains useful if that site is retired.
+The robot's original project page is available at [angelojamesny.com/tubba-2023-24](https://angelojamesny.com/tubba-2023-24). Its robot specific technical narrative and media have been independently summarized and preserved in this repository so the engineering record remains useful if that site is retired.
 
 ## Robot and game
 
-EggWUUUHH was built to compete in the 2023–2024 FTC game **CENTERSTAGE**. During a match, robots collected hexagonal pixels and scored them on an angled backdrop or in designated field areas. Endgame opportunities included suspending from the stage truss and launching a paper airplane into an off-field scoring zone. See the [official CENTERSTAGE game animation](https://www.youtube.com/watch?v=6e-5Uo1dRic&t=30s) for a visual explanation.
+EggWUUUHH was built to compete in the 2023–2024 FTC game **CENTERSTAGE**. During a match, robots collected hexagonal pixels and scored them on an angled backdrop or in designated field areas. Endgame opportunities included suspending from the stage truss and launching a paper airplane into an off field scoring zone. See the [official CENTERSTAGE game animation](https://www.youtube.com/watch?v=6e-5Uo1dRic&t=30s) for a visual explanation.
 
-The team developed the robot through four major competition iterations. The core architecture combined a custom four-plate aluminum chassis, mecanum drivetrain, string-driven linear slides, active multi-stage intake, two-pixel outtake, plane launcher, and—late in the season—a winch-powered climber.
+The team developed the robot through four major competition iterations. The core architecture combined a custom four plate aluminum chassis, mecanum drivetrain, string driven linear slides, active multi stage intake, two pixel outtake, plane launcher, and—late in the season—a winch powered climber.
 
 | System | Design summary |
 | --- | --- |
-| Chassis | Four parallel aluminum plates with mechanism-specific mounting and clearance features, supported by structural extrusions and a mecanum drivetrain. |
-| Linear slides | Stacked drawer slides separated by 3D-printed pulley blocks and driven vertically by a motorized string system. |
-| Intake | Three active stages moved pixels from the floor into the robot: compliant star wheels, counter-rollers, and flexible zip-tie sweepers. |
+| Chassis | Four parallel aluminum plates with mechanism specific mounting and clearance features, supported by structural extrusions and a mecanum drivetrain. |
+| Linear slides | Stacked drawer slides separated by 3D printed pulley blocks and driven vertically by a motorized string system. |
+| Intake | Three active stages moved pixels from the floor into the robot: compliant star wheels, counter rollers, and flexible zip tie sweepers. |
 | Outtake | The final pivoting box contacted the backdrop and lowered pixels into place; a pincher retained the first pixel while a second waited above it. |
 | Plane launcher | A spring supplied launch energy, with separate servos controlling release and aiming angle. |
-| Climber | A fast winch pulled side-mounted pivoting hooks; string lowered the hooks and rubber bands passively helped raise them. |
+| Climber | A fast winch pulled side mounted pivoting hooks; string lowered the hooks and rubber bands passively helped raise them. |
 
 Read the complete, rewritten season narrative in [`docs/DESIGN_HISTORY.md`](docs/DESIGN_HISTORY.md).
 
@@ -59,7 +59,7 @@ Read the complete, rewritten season narrative in [`docs/DESIGN_HISTORY.md`](docs
 
 ## CAD downloads
 
-All models use the vendor-neutral STEP format and can be imported by Fusion 360, Onshape, SOLIDWORKS, Inventor, FreeCAD, and most modern mechanical CAD packages.
+All models use the vendor neutral STEP format and can be imported by Fusion 360, Onshape, SOLIDWORKS, Inventor, FreeCAD, and most modern mechanical CAD packages.
 
 | Model | Contents | Direct download |
 | --- | --- | --- |
@@ -116,11 +116,11 @@ Use this suggested credit when publishing this work or a derivative:
 
 > Based on the FTC 9384 2023–2024 Robot by Angelo Demetroulakos and FTC Team 9384 Hydraulic Hydras, licensed under CC BY 4.0. Source: https://github.com/AloeVeraZ/FTC9384-2024-Robot
 
-See [`ATTRIBUTION.md`](ATTRIBUTION.md) for complete reuse guidance. Team names, logos, third-party product names, and third-party component geometry remain the property of their respective owners; the license grants rights only to material the repository's contributors are authorized to license.
+See [`ATTRIBUTION.md`](ATTRIBUTION.md) for complete reuse guidance. Team names, logos, third party product names, and third party component geometry remain the property of their respective owners; the license grants rights only to material the repository's contributors are authorized to license.
 
 ## Disclaimer
 
-These files are provided as-is for educational and design-reference purposes. Verify dimensions, materials, clearances, fasteners, and applicable competition rules before manufacturing or operating any mechanism.
+These files are provided as is for educational and design reference purposes. Verify dimensions, materials, clearances, fasteners, and applicable competition rules before manufacturing or operating any mechanism.
 
 ---
 
