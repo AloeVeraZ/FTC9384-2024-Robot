@@ -4,10 +4,10 @@
 
 ### FTC Team 9384 Hydraulic Hydras · 2023–2024 Robot CAD
 
-[![FTC Team](https://img.shields.io/badge/FTC-Team%209384-111111?style=for-the-badge)](https://ftc-events.firstinspires.org/team/9384)
-[![Season](https://img.shields.io/badge/Season-2023--2024-3f3f46?style=for-the-badge)](#about-the-robot)
-[![CAD](https://img.shields.io/badge/CAD-STEP-6b7280?style=for-the-badge)](#cad-downloads)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-111111?style=for-the-badge)](LICENSE)
+[![FTC Team](https://img.shields.io/badge/FTC-Team%209384-00AEEF?style=for-the-badge&labelColor=0369A1)](https://ftc-events.firstinspires.org/team/9384)
+[![Season](https://img.shields.io/badge/Season-2023--2024-8B5CF6?style=for-the-badge&labelColor=6D28D9)](#about-the-robot)
+[![CAD](https://img.shields.io/badge/CAD-STEP-22C55E?style=for-the-badge&labelColor=15803D)](#cad-downloads)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-F59E0B?style=for-the-badge&labelColor=B45309)](LICENSE)
 
 Open mechanical design files, robot photography, engineering documentation, and season resources for FTC Team 9384's 2023–2024 competition robot.
 
