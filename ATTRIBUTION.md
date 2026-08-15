@@ -18,7 +18,7 @@ For a physical robot, printed part, video, social-media post, publication, or co
 - **Creators:** Angelo Demetroulakos and FTC Team 9384 Hydraulic Hydras
 - **Source:** https://github.com/AloeVeraZ/FTC9384-2024-Robot
 - **Original GrabCAD publication:** https://grabcad.com/library/ftc-9384-2023-2024-robot-1
-- **Original project page:** https://angelojamesny.com/tubba-2023-24
+- **Repository:** https://github.com/AloeVeraZ/FTC9384-2024-Robot
 - **License:** Creative Commons Attribution 4.0 International — https://creativecommons.org/licenses/by/4.0/
 
 ## Scope

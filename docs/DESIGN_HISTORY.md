@@ -1,6 +1,6 @@
 # EggWUUUHH design history
 
-This document preserves and reorganizes the robot specific engineering record originally published on [Angelo Demetroulakos' project page](https://angelojamesny.com/tubba-2023-24). It is an original summary rather than a copy of the website. Robot media from that page was archived here on August 1, 2026.
+This document preserves and reorganizes the robot-specific engineering record from an earlier project write-up. It is an original summary rather than a copy of that write-up. The associated robot media was archived here on August 1, 2026.
 
 ## Challenge and design goals
 
@@ -125,4 +125,3 @@ The files below are local copies of the original project images. They are kept u
 - [CAD downloads](../README.md#cad-downloads)
 - [Engineering portfolio and notebook](../README.md#engineering-documentation)
 - [Original GrabCAD publication](https://grabcad.com/library/ftc-9384-2023-2024-robot-1)
-- [Original project page](https://angelojamesny.com/tubba-2023-24)

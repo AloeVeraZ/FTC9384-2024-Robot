@@ -16,6 +16,7 @@
 
 Open mechanical design solid models, competition photography, engineering documentation, and subsystem CAD for FTC Team 9384's CENTERSTAGE robot.
 
+<strong>Quick navigation:</strong><br>
 [Robot Overview](#about-the-robot) | [CAD Downloads](#cad-downloads) | [Design History](docs/DESIGN_HISTORY.md) | [Engineering Portfolio](#engineering-documentation) | [GrabCAD Model](https://grabcad.com/library/ftc-9384-2023-2024-robot-1)
 
 </div>
@@ -98,6 +99,6 @@ licensed under CC BY 4.0. Source: https://github.com/AloeVeraZ/FTC9384-2024-Robo
 
 <div align="center">
 
-Built by **FTC Team 9384 · Hydraulic Hydras** · Documented by **[Angelo Demetroulakos](https://github.com/AloeVeraZ)**
+Built by **FTC Team 9384 · Hydraulic Hydras**
 
 </div>
